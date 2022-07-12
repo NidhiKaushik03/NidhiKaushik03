@@ -1,4 +1,4 @@
-<img  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" height="300" width="1000">
+<img  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="300" width="1200">
 <h1 align="center">Hi 👋, I'm Nidhi Kaushik</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
